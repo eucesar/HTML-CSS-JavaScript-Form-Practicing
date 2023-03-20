@@ -1,0 +1,10 @@
+#body{
+    background-color: var(--salmao);
+    display: flex;
+    justify-content: center;
+    margin-top: 22em;
+}
+
+#imagem__imagem{
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+@import url("./styles/cadastro-finalizado.css");
+@import url("./styles/formulario.css");
+
+
+:root {
+    --cor-de-fundo: #000000;
+    --cinza: #7a7a7a;
+    --branco: #ffffff;
+    --preto: #000000;
+    --vermelho: #ff0000;
+    --salmao: #bd4b0a;
+
+
+}   
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((-------- 𝒞𝑒𝓈𝒶𝓇 ℐ𝑔𝓁𝑒𝓈𝒾𝒶𝓈  */
+
+/**/
